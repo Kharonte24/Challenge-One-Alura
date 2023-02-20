@@ -1,0 +1,124 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background: #F3F5FC;
+}
+
+.container{
+  background: #CED4DA;
+  margin: auto;
+  width: 960px;
+  height: 650px;
+  padding: 2px;
+
+}
+.logo{
+width: 100%;
+float: left;
+background: #CED4DA;
+
+}
+.imgLogo{
+  margin-top: 1%;
+  margin-left: 3%;
+  float: inherit;
+}
+.noDeco{
+  background: #CED4DA;
+  float: left;
+  width: 70%;
+  height: 60%;
+  border-radius: 20px;
+
+}
+.introText{
+  color: #0A3871;
+  background: #F3F5FC;
+  font-size: 15px;
+  float: left;
+  margin-left: 10%;
+  margin-top: 10%;
+  width: 80%;
+  height: 80%;
+  border: none;
+  outline: none;
+}
+.deco{
+  float: right;
+  width: 30%;
+  height: auto;
+  border-radius: 20px;
+  background: #F3F5FC;
+}
+.imgMune{
+  margin-top: 15%;
+  margin-left: 3%;
+  width: 90%;
+  height: auto;
+
+}
+.title-encrip{
+  margin-right: 6%;
+  margin-left: 10%;
+  text-align: center;
+  font:bolder;
+
+}
+.text-encrip{
+  float: left;
+  margin-left: 10%;
+  color: #0A3871;
+  font-size: 15px;
+  width: 80%;
+  height: 60%;
+  border: none;
+  outline: none;
+
+}
+
+#btn-copiar{
+  color: #F3F5FC;
+  padding: 19px;
+  width: 60%;
+  height: 80%;
+  border-radius: 24px;
+  margin-left: 15%;
+  background: #0A3871 ;  
+  border: #0A3871;
+
+}
+.buttons{
+  float: left;
+  width: 70%;
+  height: auto;
+  border-radius: 20px;
+  color:#0A3871;  
+  background: #CED4DA;
+}
+#text-btn{
+  text-align: center;
+  padding: 5px;
+}
+#btnEncriptor{
+  color: #F3F5FC;
+  padding: 24px;
+  width: 30%;
+  height: 60%;
+  border-radius: 24px;
+  margin-left: 15%;
+  background: #0A3871 ;
+  border: #0A3871;
+
+
+}
+#btnDesencriptor{
+  color: #0A3871;
+  padding: 24px;
+  width: 30%;
+  height: 60%;
+  border-radius: 24px;
+  margin-left: 10%;
+  background: #F3F5FC ;
+  border: #F3F5FC ;
+
+}
